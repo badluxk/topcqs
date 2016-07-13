@@ -1,0 +1,10 @@
+C:\Users\nabil\Downloads\Random Generator\Random Generator\bin\Release\Random Generator.exe
+C:\Users\nabil\Downloads\Random Generator\Random Generator\bin\Release\Random Generator.pdb
+C:\Users\nabil\Downloads\Random Generator\Random Generator\bin\Release\Random Generator.xml
+C:\Users\nabil\Downloads\Random Generator\Random Generator\obj\x86\Release\Random Generator.vbprojResolveAssemblyReference.cache
+C:\Users\nabil\Downloads\Random Generator\Random Generator\obj\x86\Release\Random_Generator.Form1.resources
+C:\Users\nabil\Downloads\Random Generator\Random Generator\obj\x86\Release\Random_Generator.Resources.resources
+C:\Users\nabil\Downloads\Random Generator\Random Generator\obj\x86\Release\Random Generator.vbproj.GenerateResource.Cache
+C:\Users\nabil\Downloads\Random Generator\Random Generator\obj\x86\Release\Random Generator.exe
+C:\Users\nabil\Downloads\Random Generator\Random Generator\obj\x86\Release\Random Generator.xml
+C:\Users\nabil\Downloads\Random Generator\Random Generator\obj\x86\Release\Random Generator.pdb
